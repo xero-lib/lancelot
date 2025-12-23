@@ -1,2 +1,2 @@
 # Lancelot
-My AI/ML workflow aimed at finding difficult-to-correct weakpoints in the mathematics underlying machine learning, and potential ways around them; otherwise, strengthen those areas personally to remain useful and maximally productive in the looming massacre of positions in the field I so dearly cherrish.
+My AI/ML workflow aimed at finding difficult-to-correct weakpoints in the mathematics underlying machine learning, and potential ways around them; otherwise, strengthen those areas personally to remain useful and maximally productive in the looming massacre of positions in the field I so dearly cherish.
