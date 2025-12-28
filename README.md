@@ -8,3 +8,4 @@ My AI/ML workflow aimed at finding difficult-to-correct weakpoints in the mathem
 |NumPy|General scientific tooling|2.4.0-1|
 |Pandas|Data structures/analysis tooling|2.3.1-2|
 |TensorFlow|Data flow for ML|2.20.0-3|
+|Keras|AI/ML HL-API|3.12.0-1|
